@@ -4,7 +4,8 @@ ARG NPM_REGISTRY=https://registry.npmmirror.com
 WORKDIR /app
 
 COPY package.json package-lock.json ./
-RUN npm ci --registry="${NPM_REGISTRY}"
+RUN npm ci --registry="${NPM_REGISTRY}" --replace-registry-host=always \
+    || (rm -rf node_modules && npm ci --registry="https://registry.npmjs.org" --replace-registry-host=always)
 
 COPY . .
 RUN npm run build
