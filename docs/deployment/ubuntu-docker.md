@@ -75,7 +75,10 @@ The first version exposes:
 The compose file supports overriding package mirrors:
 
 ```bash
-PIP_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple \
+PIP_INDEX_URL=https://mirrors.cloud.tencent.com/pypi/simple \
 NPM_REGISTRY=https://registry.npmmirror.com \
 docker compose build
 ```
+
+The backend Docker image uses `backend/requirements-prod.txt`, not the local test dependency file.
+This keeps production builds smaller and avoids optional `uvicorn[standard]` packages that are slow to download.
