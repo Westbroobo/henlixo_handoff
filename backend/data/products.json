@@ -1,0 +1,321 @@
+[
+  {
+    "sku": "HL-PG-LV-STD",
+    "name": "Motorized Louvered Aluminum Pergola (Standard)",
+    "family": "Pergola",
+    "subType": "Motorized Louvered",
+    "application": ["Villa", "Restaurant", "Cafe", "Light Hotel", "Dealer"],
+    "tier": "Standard main-line",
+    "featured": true,
+    "tagline": "Henlixo's main pergola SKU for 3-6m residential gardens, restaurant terraces, cafes and light hospitality projects.",
+    "intro": "A 6063-T5 aluminum motorized louvered pergola with 0-135 degree adjustable roof, hidden post drainage, fluorocarbon 3-coat finish, RF remote control and optional LED, rain sensor, side screen and sliding glass door upgrades.",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "6063-T5 aluminum, 2.0mm wall thickness" },
+      { "label": "Roof", "value": "Motorized louver, 0-135 degree adjustable" },
+      { "label": "Lead Time", "value": "25-30 days" },
+      { "label": "MOQ", "value": "1 set" }
+    ],
+    "features": [
+      "Hidden gutter and post drainage",
+      "RF remote and wall switch",
+      "Optional LED, rain and wind sensor, Wi-Fi control",
+      "24-month product warranty and 10-year coating warranty"
+    ],
+    "accessories": ["LED light strip", "Rain and wind sensor", "Side screen", "Sliding glass door"],
+    "leadTime": "25-30 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-PG-LV-MED",
+    "name": "Motorized Louvered Aluminum Pergola (Medium)",
+    "family": "Pergola",
+    "subType": "Reinforced Motorized Louvered",
+    "application": ["Hotel", "Resort", "Restaurant", "Villa", "Dealer"],
+    "tier": "Reinforced project line",
+    "featured": true,
+    "tagline": "A reinforced pergola option for 3.5-4.5m typical spans and buyers who want extra structure margin.",
+    "intro": "The medium louvered pergola keeps the clean bioclimatic roof experience while upgrading the frame and louver strength for hospitality terraces, dealer showrooms and larger residential outdoor spaces.",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "6063-T5 reinforced aluminum profile" },
+      { "label": "Roof", "value": "0-135 degree adjustable louver" },
+      { "label": "Typical Size", "value": "3.5m x 4.5m and custom spans" },
+      { "label": "Lead Time", "value": "25-30 days" }
+    ],
+    "features": [
+      "Reinforced beams and louvers for project orders",
+      "Concealed rainwater drainage through posts",
+      "Compatible with LED, sensors and side enclosures",
+      "Suitable for dealer sample display and hospitality zones"
+    ],
+    "accessories": ["LED lighting", "Rain and wind sensor", "Side screen", "Smart control module"],
+    "leadTime": "25-30 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-PG-LV-HD",
+    "name": "Heavy-Duty Bioclimatic Aluminum Pergola",
+    "family": "Pergola",
+    "subType": "Heavy-Duty Motorized Louvered",
+    "application": ["Hotel", "Resort", "Pool", "Rooftop", "Commercial"],
+    "tier": "Project grade",
+    "featured": true,
+    "tagline": "Project-grade pergola for large spans, stronger wind regions and commercial outdoor environments.",
+    "intro": "The heavy-duty pergola is specified when the project needs larger spans, reinforced profiles, stronger louver blades and engineering support based on local wind and snow conditions.",
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "6063-T5 aluminum, heavy-duty profile" },
+      { "label": "Roof", "value": "Reinforced motorized louver" },
+      { "label": "Motor", "value": "24V 200-300W, project configured" },
+      { "label": "Lead Time", "value": "30-35 days" }
+    ],
+    "features": [
+      "Recommended for spans above 5m or higher-load locations",
+      "Structure advice based on project size and installation region",
+      "Works with glass doors, windproof screens and lighting",
+      "Premium option for hotel, resort and rooftop projects"
+    ],
+    "accessories": ["Sliding glass door", "Windproof curtain", "LED lighting", "Rain and wind sensor"],
+    "leadTime": "30-35 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-PG-FLIP-175",
+    "name": "Manual Flip-Louver Aluminum Pergola",
+    "family": "Pergola",
+    "subType": "Manual Flip-Louver",
+    "application": ["Villa", "Cafe", "Garden", "Dealer", "Light Commercial"],
+    "tier": "Manual economy line",
+    "featured": false,
+    "tagline": "A manual 175mm flip-louver pergola for projects that need the look of a louvered roof with simpler operation.",
+    "intro": "This manual pergola uses 175mm flip louvers and a 6063-T5 aluminum frame to serve garden, cafe and light commercial projects that do not require motorized roof control.",
+    "image": "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "6063-T5 aluminum" },
+      { "label": "Roof", "value": "175mm manual flip louver" },
+      { "label": "Motor", "value": "Manual operation" },
+      { "label": "Lead Time", "value": "25-30 days" }
+    ],
+    "features": [
+      "Cost-efficient louvered pergola configuration",
+      "Manual control without motor system",
+      "Hidden drainage design",
+      "Optional screen and lighting upgrades"
+    ],
+    "accessories": ["LED lighting", "Side screen", "Privacy screen"],
+    "leadTime": "25-30 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-PV-POINT",
+    "name": "Pointed-Roof Aluminum Pavilion",
+    "family": "Pergola",
+    "subType": "Pointed-Roof Pavilion",
+    "application": ["Villa", "Garden", "Resort", "Public Landscape", "Dealer"],
+    "tier": "Classic pavilion line",
+    "featured": false,
+    "tagline": "A classic pointed-roof pavilion for gardens, resort landscapes and public outdoor rest areas.",
+    "intro": "The pointed-roof pavilion brings a more traditional silhouette to aluminum outdoor structures, suitable for villa gardens, resort walkways, parks and real estate landscape zones.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "6063-T5 aluminum" },
+      { "label": "Roof", "value": "Pointed aluminum roof with grille options" },
+      { "label": "Typical Size", "value": "3m x 3m to 4m x 4m" },
+      { "label": "Lead Time", "value": "30 days" }
+    ],
+    "features": [
+      "Decorative roof profile for landscape projects",
+      "Aluminum structure with low maintenance finish",
+      "Works for resort paths, gardens and public rest areas",
+      "Custom RAL finish available"
+    ],
+    "accessories": ["Ceiling panel", "Decorative grille", "Lighting preparation"],
+    "leadTime": "30 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-CY-R",
+    "name": "R-Shaped Curved Aluminum Canopy",
+    "family": "Accessories",
+    "subType": "Curved Canopy",
+    "application": ["Entrance", "Villa", "Balcony", "Walkway", "Dealer"],
+    "tier": "Light shelter line",
+    "featured": false,
+    "tagline": "A curved aluminum canopy for entrances, walkways, balconies and light rain-shelter applications.",
+    "intro": "The R-shaped canopy is a lighter outdoor structure for doorways, residential entrances, balcony protection and walkway shelter, with aluminum curved framing and optional PC or glass paneling.",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "6063-T5 curved aluminum" },
+      { "label": "Panel", "value": "PC or glass, project selected" },
+      { "label": "Drainage", "value": "Eave drainage" },
+      { "label": "Lead Time", "value": "25-30 days" }
+    ],
+    "features": [
+      "Curved architectural rain-shelter form",
+      "Custom dimensions for entrances and walkways",
+      "Low-maintenance aluminum finish",
+      "Works as an add-on product for dealers"
+    ],
+    "accessories": ["Lighting", "Custom color", "Wall brackets"],
+    "leadTime": "25-30 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-SR-120-GBL",
+    "name": "120-Series Gable-Roof Aluminum Sunroom",
+    "family": "Sunroom",
+    "subType": "Gable-Roof Sunroom",
+    "application": ["Villa", "Garden", "Hotel", "Resort", "Dealer"],
+    "tier": "Glass sunroom line",
+    "featured": true,
+    "tagline": "A gable-roof aluminum sunroom with 120-series frame and laminated glass for villa gardens and hospitality spaces.",
+    "intro": "The 120-series gable sunroom creates a bright enclosed outdoor room with 6063-T5 aluminum framing, 5+5mm tempered laminated glass and project-specific sizes for gardens, villas and resort lounges.",
+    "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "120-series 6063-T5 aluminum" },
+      { "label": "Glass", "value": "5+5mm tempered laminated glass" },
+      { "label": "Roof", "value": "Gable roof" },
+      { "label": "Lead Time", "value": "25-30 days" }
+    ],
+    "features": [
+      "Bright glass enclosure for gardens and lounges",
+      "120-series gutter and drainage system",
+      "Custom size, color and glass configuration",
+      "Premium solution for villa and hospitality projects"
+    ],
+    "accessories": ["Roller blind", "Sliding door", "Ventilation window", "Custom RAL finish"],
+    "leadTime": "25-30 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-SR-120-FLT",
+    "name": "120-Series Flat-Roof Aluminum Sunroom",
+    "family": "Sunroom",
+    "subType": "Flat-Roof Sunroom",
+    "application": ["Villa", "Patio", "Garden", "Real Estate", "Dealer"],
+    "tier": "Glass sunroom line",
+    "featured": false,
+    "tagline": "A modern flat-roof sunroom for residential extensions, villa patios and real estate landscape upgrades.",
+    "intro": "The flat-roof 120-series sunroom uses aluminum framing and laminated glass to add a clean, modern enclosed outdoor space to villas, patios and light commercial properties.",
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "120-series 6063-T5 aluminum" },
+      { "label": "Glass", "value": "5+5mm tempered laminated glass" },
+      { "label": "Roof", "value": "Flat roof with concealed slope" },
+      { "label": "Lead Time", "value": "25-30 days" }
+    ],
+    "features": [
+      "Minimal flat-roof profile",
+      "Concealed slope and drainage",
+      "Custom glazing and door options",
+      "Suitable for patio extensions and residential projects"
+    ],
+    "accessories": ["Roller blind", "Sliding door", "Ventilation window", "Lighting"],
+    "leadTime": "25-30 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-MSR-PC",
+    "name": "Mobile Retractable Polycarbonate Sunroom",
+    "family": "Sunroom",
+    "subType": "Mobile Retractable PC Sunroom",
+    "application": ["Restaurant", "Pool", "Hotel", "Spa", "Commercial"],
+    "tier": "Mobile enclosure line",
+    "featured": true,
+    "tagline": "A movable PC enclosure for restaurants, hotel pools, spa decks and commercial weather-protection projects.",
+    "intro": "The mobile retractable sunroom combines 6063-T5 aluminum tracks, 5mm polycarbonate panels and 24V motorized movement to create flexible coverage for dining terraces, pools and spa areas.",
+    "image": "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "6063-T5 aluminum, 60x100x3 main beam" },
+      { "label": "Panel", "value": "5mm polycarbonate with UV protection" },
+      { "label": "Motor", "value": "24V 100-300W motorized track" },
+      { "label": "Lead Time", "value": "35 days" }
+    ],
+    "features": [
+      "Retractable structure for flexible outdoor operation",
+      "Polycarbonate panels reduce weight and improve impact resistance",
+      "Ideal for restaurants, pools and spa enclosures",
+      "Custom track length and panel layout"
+    ],
+    "accessories": ["Heater preparation", "Lighting", "Remote control", "Side sealing"],
+    "leadTime": "35 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-RL-AL",
+    "name": "Aluminum Railing and Pool Fence System",
+    "family": "Railing",
+    "subType": "Aluminum Railing",
+    "application": ["Villa", "Pool", "Balcony", "Hotel", "Public Landscape"],
+    "tier": "Railing system line",
+    "featured": true,
+    "tagline": "Aluminum railing and pool fence systems for villas, balconies, hotel landscapes and outdoor public areas.",
+    "intro": "Henlixo aluminum railing systems use powder-coated aluminum profiles for pool fencing, garden boundaries, balconies and landscape projects, with matching gates and custom dimensions available.",
+    "image": "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "40x40x1.5, 100x20x1.2 and 80x80x2.0 post options" },
+      { "label": "Finish", "value": "White, grey, matte black or RAL custom" },
+      { "label": "Unit", "value": "Configured per linear meter" },
+      { "label": "Lead Time", "value": "25 days" }
+    ],
+    "features": [
+      "Low-maintenance aluminum fence and railing system",
+      "Suitable for pool perimeter and garden boundaries",
+      "Matching gate available",
+      "Project drawing and dimension customization"
+    ],
+    "accessories": ["Matching gate", "Post caps", "Custom color", "Anchor hardware"],
+    "leadTime": "25 days",
+    "moq": "Project based",
+    "ctaLabel": "Inquire via WhatsApp"
+  },
+  {
+    "sku": "HL-ACC-WC",
+    "name": "Motorized Windproof Curtain Accessory",
+    "family": "Accessories",
+    "subType": "Windproof Curtain",
+    "application": ["Pergola", "Restaurant", "Cafe", "Hotel", "Villa"],
+    "tier": "Accessory upgrade",
+    "featured": false,
+    "tagline": "A motorized windproof curtain add-on for pergolas, terraces and outdoor dining zones.",
+    "intro": "The windproof curtain accessory adds side weather protection to pergolas and commercial terraces, using an aluminum cassette, PVC-coated fabric and 24V motorized control.",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1000&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1000&q=80",
+    "specs": [
+      { "label": "Frame", "value": "Aluminum side cassette and guide system" },
+      { "label": "Fabric", "value": "PVC-coated windproof fabric" },
+      { "label": "Motor", "value": "24V motor with remote" },
+      { "label": "Lead Time", "value": "25 days" }
+    ],
+    "features": [
+      "Improves side protection for pergolas and terraces",
+      "Works for outdoor dining and cafe seating",
+      "Motorized control option",
+      "Can be specified with new pergola orders"
+    ],
+    "accessories": ["Remote control", "Custom fabric color", "Side guide rails"],
+    "leadTime": "25 days",
+    "moq": "1 set",
+    "ctaLabel": "Inquire via WhatsApp"
+  }
+]

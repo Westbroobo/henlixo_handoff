@@ -1,0 +1,68 @@
+[
+  {
+    "id": "hotel-resort-terraces",
+    "kind": "application-scenario",
+    "title": "Hotel & Resort Terraces",
+    "audience": "Hotels, resorts and hospitality procurement teams",
+    "summary": "Pergola and enclosure systems for pool decks, dining terraces and guest outdoor lounges.",
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1200&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1200&q=80",
+    "recommendedProducts": ["HL-PG-LV-HD", "HL-MSR-PC", "HL-PV-POINT"],
+    "keyPoints": ["Heavy-duty structures", "Weather protection", "Resort-grade visual finish"]
+  },
+  {
+    "id": "restaurant-cafe-outdoor-dining",
+    "kind": "application-scenario",
+    "title": "Restaurant & Cafe Outdoor Dining",
+    "audience": "Restaurant owners, cafe chains and fit-out contractors",
+    "summary": "Configurable pergolas, side curtains and mobile enclosures for all-season outdoor seating.",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+    "recommendedProducts": ["HL-PG-LV-STD", "HL-PG-LV-MED", "HL-ACC-WC"],
+    "keyPoints": ["More usable dining hours", "Rain and sun control", "Flexible side protection"]
+  },
+  {
+    "id": "villa-gardens-private-courtyards",
+    "kind": "application-scenario",
+    "title": "Villa Gardens & Private Courtyards",
+    "audience": "Villa owners, landscapers and garden contractors",
+    "summary": "Aluminum pergolas, pavilions and sunrooms for residential gardens and private courtyards.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=80",
+    "recommendedProducts": ["HL-PG-LV-STD", "HL-SR-120-GBL", "HL-PV-POINT"],
+    "keyPoints": ["Custom RAL color", "Garden-scale dimensions", "Low-maintenance aluminum"]
+  },
+  {
+    "id": "poolside-spa-enclosures",
+    "kind": "application-scenario",
+    "title": "Poolside & Spa Enclosures",
+    "audience": "Pool builders, spa operators and resort project teams",
+    "summary": "Retractable sunrooms, railings and pergolas for pool decks, spa zones and leisure facilities.",
+    "image": "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=1200&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=1200&q=80",
+    "recommendedProducts": ["HL-MSR-PC", "HL-RL-AL", "HL-PG-LV-HD"],
+    "keyPoints": ["Poolside enclosure options", "Safety railing support", "Hospitality-grade finish"]
+  },
+  {
+    "id": "rooftop-bars-commercial-patios",
+    "kind": "application-scenario",
+    "title": "Rooftop Bars & Commercial Patios",
+    "audience": "Commercial landlords, bar operators and architects",
+    "summary": "Project-grade pergolas and enclosure upgrades for rooftop bars, patios and commercial leisure areas.",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=80",
+    "recommendedProducts": ["HL-PG-LV-HD", "HL-PG-LV-MED", "HL-ACC-WC"],
+    "keyPoints": ["Project configuration", "Integrated lighting options", "Designed around site constraints"]
+  },
+  {
+    "id": "real-estate-public-landscape",
+    "kind": "application-scenario",
+    "title": "Real Estate & Public Landscape",
+    "audience": "Developers, public landscape teams and dealers",
+    "summary": "Pavilions, railing systems and pergolas for real estate amenities, parks and public outdoor zones.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&q=80",
+    "imageFallback": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&q=80",
+    "recommendedProducts": ["HL-PV-POINT", "HL-RL-AL", "HL-CY-R"],
+    "keyPoints": ["Landscape-ready silhouettes", "Dealer-friendly product range", "Custom color and size"]
+  }
+]

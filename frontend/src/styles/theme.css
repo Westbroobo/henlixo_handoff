@@ -1,0 +1,19 @@
+:root {
+  --ink: #1a1a1a;
+  --ink-soft: #3a3a3a;
+  --muted: #6f6a60;
+  --line: #d8d1c4;
+  --line-soft: #ece6dc;
+  --bg: #f4f0e8;
+  --bg-alt: #e8dfcf;
+  --card: #fffdf9;
+  --charcoal: #171716;
+  --charcoal-soft: #24231f;
+  --brass: #a07c3d;
+  --brass-light: #cba463;
+  --moss: #556b5d;
+  --clay: #a35f45;
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: "Inter Tight", "Segoe UI", Arial, sans-serif;
+  --shadow: 0 20px 60px rgba(24, 22, 18, 0.14);
+}

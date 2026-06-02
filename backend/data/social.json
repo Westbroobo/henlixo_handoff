@@ -1,0 +1,25 @@
+{
+  "channels": [
+    { "name": "Instagram", "url": "https://www.instagram.com/your-handle" },
+    { "name": "TikTok", "url": "https://www.tiktok.com/@your-handle" },
+    { "name": "Pinterest", "url": "https://www.pinterest.com/your-handle" },
+    { "name": "YouTube", "url": "https://www.youtube.com/@your-channel" }
+  ],
+  "items": [
+    {
+      "title": "Matte Black Pergola",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+      "url": "https://www.instagram.com/your-handle"
+    },
+    {
+      "title": "Restaurant Terrace Inspiration",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "url": "https://www.pinterest.com/your-handle"
+    },
+    {
+      "title": "Poolside Outdoor Structure",
+      "image": "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=800&q=80",
+      "url": "https://www.tiktok.com/@your-handle"
+    }
+  ]
+}
